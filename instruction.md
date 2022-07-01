@@ -11,9 +11,12 @@
 
 1. ## Установка Git на компьютер
 
-    1. *Установка для Windows*
+    1. *Установка для Windows 10*
+    >Можно посмотреть видео, как установить и настроить git на windows 10, для этого необходимо пройти по [этой сслыке](https://www.youtube.com/watch?v=GsG5roSGha0)
     2. *Установка для Linux*
+    >Можно почитать, как установить и настроить git в Ubuntu 20.04, тогда  [читаем здесь](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04-ru)
     3. *Установка для MacOS*
+    >Кто знает английский язык, может ознакомиться с процессом установки git на MacOS, просто кликнув [сюда](https://git-scm.com/download/mac)
 
   
 2. ## Основные принцыпы работы Git
